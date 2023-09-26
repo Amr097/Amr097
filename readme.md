@@ -14,9 +14,9 @@ If you're looking to hire a professional, disciplined and hardworking Frontend d
 <img src="https://github.com/Amr097/Amr097/assets/127849429/9fb06534-d053-449b-ad39-1f9ef2c97aed" width="38"> Connect with me:
 
 
- <a href="https://www.linkedin.com/in/amrabdelghany/"> 
+ <a target="_blank" href="https://www.linkedin.com/in/amrabdelghany/"> 
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
-   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amr.abdelghany097@gmail.com"> 
+   <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=amr.abdelghany097@gmail.com"> 
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
 
 <h3>Technologies</h3>

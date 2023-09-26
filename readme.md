@@ -1,6 +1,5 @@
 <h2><img src="https://github.com/Amr097/Amr097/assets/127849429/89b7f6bd-e35d-49cc-aa9a-bf6b4db84739" width="37"> &nbsp; Hey! I'm Amr, Nice to see you. </h2>
 
-
 ## About Me <img src="https://github.com/Amr097/Amr097/assets/127849429/82d60f82-c48a-4969-a316-1b18dd79bcc7" width="100" align="">
 
 My name is Amr Abdelghany, One of my strongest ambitions is to become the best programmer I can humanly be. </br>
@@ -9,18 +8,17 @@ If you're looking to hire a professional, disciplined and hardworking Frontend d
 
   </br>
 
-
-
 <img src="https://github.com/Amr097/Amr097/assets/127849429/9fb06534-d053-449b-ad39-1f9ef2c97aed" width="38"> Connect with me:
-
 
  <a target="_blank" href="https://www.linkedin.com/in/amrabdelghany/"> 
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
    <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=amr.abdelghany097@gmail.com"> 
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
+
   </br>
-<h3>Technologies</h3>
-  </br>
+  
+## Technologies
+  
 <p>
 
 <div align="left">
@@ -61,10 +59,10 @@ If you're looking to hire a professional, disciplined and hardworking Frontend d
  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amr097&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false" height="150" alt="languages graph"  /></a>
 </div>
 
-
   </br>
 
 ## Visits <img src="https://github.com/Amr097/Amr097/assets/127849429/81f80b6a-ea15-4792-8b09-015e1281abc4" width="25px">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Amr097&color=blue)
+
 

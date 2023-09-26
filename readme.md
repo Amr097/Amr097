@@ -8,7 +8,7 @@ If you're looking to hire a professional, disciplined and hardworking Frontend d
 
   </br>
 
- Connect with me:
+ <img src="https://github.com/Amr097/Amr097/assets/127849429/e2e888d1-4197-4e39-9be9-2aab79e618a0" width="38"> Connect with me:
 
  <a target="_blank" href="https://www.linkedin.com/in/amrabdelghany/"> 
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
@@ -16,9 +16,10 @@ If you're looking to hire a professional, disciplined and hardworking Frontend d
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
 
   </br>
+
   </br>
   
-<h2><img src="https://github.com/Amr097/Amr097/assets/127849429/9fb06534-d053-449b-ad39-1f9ef2c97aed" width="38"> &nbsp; Technologies </h2>
+<h2><img src="https://github.com/Amr097/Amr097/assets/127849429/9fb06534-d053-449b-ad39-1f9ef2c97aed" width="38"> Technologies </h2>
   
 <p>
 

@@ -58,7 +58,7 @@ If you're looking to hire a professional, disciplined and hardworking Frontend d
 
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api username=Amr097&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false" height="150" alt="stats graph" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Amr097" height="150" alt="stats graph" />
     </a>
  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amr097&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false" height="150" alt="languages graph"  /></a>
 </div>

@@ -57,7 +57,7 @@ If you're looking to hire a professional, disciplined and hardworking Frontend d
 ## :octocat: 📈 Github Activity <img src="https://github.com/Amr097/Amr097/assets/127849429/12f223c9-fe66-4e73-928c-3dbbc6c672ae" width="90px">
 
 <div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Amr097&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false" height="150" alt="stats graph"  /></a>
+ <img src="https://github-readme-stats.vercel.app/api?username=Amr097&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false" height="150" alt="stats graph"  />
  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amr097&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false" height="150" alt="languages graph"  /></a>
 </div>
 

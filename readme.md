@@ -4,6 +4,8 @@
 If you're looking to hire a professional, disciplined and hardworking Frontend developer, or just want to connect, feel free to reach out on LinkedIn or by email, I’d love to chat!
   </br>
 
+Beyond code, I enjoy reading and have been into books about technology and life management lately. I’m also experimenting with Notion to bring more structure and better documentation to my daily routine, habits, and thoughts.
+
  <a target="_blank" href="https://www.linkedin.com/in/amrabdelghany/"> 
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
    <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=amr.abdelghany097@gmail.com"> 

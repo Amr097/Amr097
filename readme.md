@@ -1,9 +1,7 @@
 <h2>Hey! I'm Amr, Nice to see you. </h2>
 
-My name is Amr Abdelghany, One of my strongest ambitions is to become the best programmer I can humanly be. </br>
 
-If you're looking to hire a professional, disciplined and hardworking Frontend developer, I would love to 𝐜𝐨𝐧𝐧𝐞𝐜𝐭 and discuss new opportunities. Feel free to reach out to me via Linkedin, and I look forward to connecting with you.
-
+If you're looking to hire a professional, disciplined and hardworking Frontend developer, or just want to connect, feel free to reach out on LinkedIn or by email, I’d love to chat!
   </br>
 
  <a target="_blank" href="https://www.linkedin.com/in/amrabdelghany/"> 
